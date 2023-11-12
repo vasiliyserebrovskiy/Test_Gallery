@@ -85,3 +85,7 @@ h1 {
 .photo12 {
 	background-image: url(../img/img12.jpeg);
 }
+p{
+	color: blue;
+	font-size: 45px;
+}
